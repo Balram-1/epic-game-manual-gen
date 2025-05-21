@@ -51,6 +51,8 @@ python ultimate.py
 🔓 Auto input OTP and verify
 📦 Grab Discord Nitro
 🎉 Save promo link to promo.txt
+![image](https://github.com/user-attachments/assets/4c01acb7-5829-4cb3-b61e-e016e5d0a9e4)
+
 
 💸 Donate
 If this tool saved you time or helped you out, feel free to donate 💰:
