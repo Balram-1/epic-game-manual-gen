@@ -1,0 +1,38 @@
+
+
+made by @balrampreet1/balramog
+
+1. Download and Install Python
+Go to the official Python website: https://www.python.org/downloads/
+Click on the Download Python button for your operating system (Windows, macOS, or Linux).
+Run the downloaded installer.
+During installation:
+Check the box that says "Add Python to PATH".
+Choose the option "Install Now" or customize the installation if needed.
+
+
+
+2. Verify Python Installation
+After installation, verify that Python is installed correctly:
+
+Open your terminal or command prompt.
+
+Type the following command and press Enter:
+
+python --version
+
+If Python is installed, it will display the version number (e.g., Python 3.x.x).
+
+
+
+3. Install Required Modules Using requirements.txt
+To install all the modules listed in the requirements.txt file:
+
+
+right click and open with terminal
+
+pip install -r requirements.txt
+
+after installing write:
+
+python main.py
