@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>🔥 Manual Epic Games Nitro tool with OTP automation and inbox scraping — FREE edition</b><br>
-  🎉 Made with ❤️ by <a href="https://github.com/Balrampreet1">@balrampreet1</a>
+  🎉 Made with ❤️ by <a href="https://github.com/Balram-1">@balrampreet1</a>
 </p>
 
 ---
