@@ -1,3 +1,5 @@
+100 stars🌟 =automatic gen 
+
 # ⚡ ULTIMATE BALRAMOG v1.1
 
 <p align="center">
