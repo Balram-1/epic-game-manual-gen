@@ -1,4 +1,4 @@
-100 stars🌟 =automatic gen .
+20 stars🌟 =automatic gen .
 
 # ⚡ ULTIMATE BALRAMOG v1.1
 
